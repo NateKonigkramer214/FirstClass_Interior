@@ -25,17 +25,30 @@ This page should contain the images of items along with the price which they are
 There should be one horizontal navigation bar on every page so that it should be easy for users to switch between all the pages.
 
 ### Client Requirments:
-1:
+1: Update Logo and headings 
 
-2:
+2:Contact us page update font size
 
-3:
-
-4:
+3: Add new shop items 
 
 ### Purpose
 
+In this project we have to learn how to work with clients and work as a team to complete a given task in this case my task was developer/designer.
 
+
+### By the end of this project: 
+
+-Have an understanding of the Waterfall Methodology
+
+-Use different tools such as Trello and GitHub, Understand their functionality
+
+-Apply previous knowledge of Wireframes and Design to your Planning
+
+We must use the Waterfall Methodology to show how you planned each step of your project. You must research the Waterfall Methodology, gather the requirements from the client and implement the project using Waterfall Methodology. 
+
+For this project, we will be working in teams using Role-Play to create a professional work environment for project completion. 
+
+We Understand the different phases of the Software Development Life Cycle( SDLC) including different requirement gathering techniques, designing, coding, and quality assurance/testing. 
 
 
 `Code languages used: HTML/Bootstrap, CSS, Javascript/React`
