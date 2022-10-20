@@ -25,13 +25,11 @@ This page should contain the images of items along with the price which they are
 There should be one horizontal navigation bar on every page so that it should be easy for users to switch between all the pages.
 
 ### Client Requirments:
-1:
+1: Change Logo and headings(color and company name)
 
-2:
+2: Make the contact information bigger on the "Contact" page
 
-3:
-
-4:
+3: Add shop items (tables lights etc)
 
 ### Purpose
 
