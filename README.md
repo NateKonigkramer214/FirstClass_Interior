@@ -50,5 +50,14 @@ For this project, we will be working in teams using Role-Play to create a profes
 
 We Understand the different phases of the Software Development Life Cycle( SDLC) including different requirement gathering techniques, designing, coding, and quality assurance/testing. 
 
+#### Company Credits:
+
+-Project Manager: Blake Willis
+
+-System Analyst: Ahmed Shahid Akhundzada
+
+-Software Developer/Designer: Nathan Konigkramer
+
+-Software Tester: Melvin Viloria
 
 `Code languages used: HTML/Bootstrap, CSS, Javascript/React`
