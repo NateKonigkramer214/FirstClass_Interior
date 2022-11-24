@@ -33,7 +33,7 @@ There should be one horizontal navigation bar on every page so that it should be
 
 ### Purpose
 
-In this project we have to learn how to work with clients and work as a team to complete a given task in this case my task was developer/designer.
+In this project we have to learn how to work with clients and work as a team to complete a given task in this case my task was Project Manager.
 
 
 ### By the end of this project: 
